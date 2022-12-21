@@ -1,0 +1,15 @@
+E:\Chelladhurai\PhaseIIAssignment\bin\Debug\net6.0\PhaseIIAssignment.exe
+E:\Chelladhurai\PhaseIIAssignment\bin\Debug\net6.0\PhaseIIAssignment.deps.json
+E:\Chelladhurai\PhaseIIAssignment\bin\Debug\net6.0\PhaseIIAssignment.runtimeconfig.json
+E:\Chelladhurai\PhaseIIAssignment\bin\Debug\net6.0\PhaseIIAssignment.dll
+E:\Chelladhurai\PhaseIIAssignment\bin\Debug\net6.0\PhaseIIAssignment.pdb
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.csproj.AssemblyReference.cache
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.AssemblyInfoInputs.cache
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.AssemblyInfo.cs
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.csproj.CoreCompileInputs.cache
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.dll
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\refint\PhaseIIAssignment.dll
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.pdb
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\PhaseIIAssignment.genruntimeconfig.cache
+E:\Chelladhurai\PhaseIIAssignment\obj\Debug\net6.0\ref\PhaseIIAssignment.dll
