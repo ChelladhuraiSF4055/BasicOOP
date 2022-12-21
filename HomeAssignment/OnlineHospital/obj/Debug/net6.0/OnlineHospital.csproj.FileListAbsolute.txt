@@ -1,0 +1,15 @@
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\bin\Debug\net6.0\OnlineHospital.exe
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\bin\Debug\net6.0\OnlineHospital.deps.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\bin\Debug\net6.0\OnlineHospital.runtimeconfig.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\bin\Debug\net6.0\OnlineHospital.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\bin\Debug\net6.0\OnlineHospital.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.csproj.AssemblyReference.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.AssemblyInfoInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.AssemblyInfo.cs
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.csproj.CoreCompileInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\refint\OnlineHospital.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\OnlineHospital.genruntimeconfig.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\OnlineHospital\obj\Debug\net6.0\ref\OnlineHospital.dll

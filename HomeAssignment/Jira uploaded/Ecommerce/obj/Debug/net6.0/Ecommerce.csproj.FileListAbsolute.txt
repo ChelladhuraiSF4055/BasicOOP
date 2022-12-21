@@ -1,0 +1,15 @@
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\bin\Debug\net6.0\Ecommerce.exe
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\bin\Debug\net6.0\Ecommerce.deps.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\bin\Debug\net6.0\Ecommerce.runtimeconfig.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\bin\Debug\net6.0\Ecommerce.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\bin\Debug\net6.0\Ecommerce.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.AssemblyReference.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfoInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.AssemblyInfo.cs
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.csproj.CoreCompileInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\refint\Ecommerce.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\Ecommerce.genruntimeconfig.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\Ecommerce\obj\Debug\net6.0\ref\Ecommerce.dll

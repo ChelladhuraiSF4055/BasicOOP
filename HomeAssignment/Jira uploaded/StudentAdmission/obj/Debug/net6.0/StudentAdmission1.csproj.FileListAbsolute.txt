@@ -1,0 +1,15 @@
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\bin\Debug\net6.0\StudentAdmission1.exe
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\bin\Debug\net6.0\StudentAdmission1.deps.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\bin\Debug\net6.0\StudentAdmission1.runtimeconfig.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\bin\Debug\net6.0\StudentAdmission1.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\bin\Debug\net6.0\StudentAdmission1.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.csproj.AssemblyReference.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.AssemblyInfoInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.AssemblyInfo.cs
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.csproj.CoreCompileInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\refint\StudentAdmission1.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\StudentAdmission1.genruntimeconfig.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\StudentAdmission1\obj\Debug\net6.0\ref\StudentAdmission1.dll

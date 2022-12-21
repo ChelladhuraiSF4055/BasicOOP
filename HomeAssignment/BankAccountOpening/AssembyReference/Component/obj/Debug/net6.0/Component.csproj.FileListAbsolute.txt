@@ -1,0 +1,12 @@
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\bin\Debug\net6.0\Component.deps.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\bin\Debug\net6.0\Component.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\bin\Debug\net6.0\Component.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.csproj.AssemblyReference.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.AssemblyInfoInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.AssemblyInfo.cs
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.csproj.CoreCompileInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\refint\Component.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\Component.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\BankAccountOpening\AssembyReference\Component\obj\Debug\net6.0\ref\Component.dll

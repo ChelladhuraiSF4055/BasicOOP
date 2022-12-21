@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+<ItemGroup>
+  <Reference Include="..\Component\CollegeAdmissionLibrary.dll">
+  </Reference>
+</ItemGroup>
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

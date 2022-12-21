@@ -1,0 +1,15 @@
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.exe
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.deps.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.runtimeconfig.json
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\bin\Debug\net6.0\LibraryManagement.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.AssemblyReference.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfoInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.AssemblyInfo.cs
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\refint\LibraryManagement.dll
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.pdb
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\LibraryManagement.genruntimeconfig.cache
+E:\Chelladhurai\OOPSBasic\HomeAssignment\Jira uploaded\ChelladhuraiLibraryManagement\LibraryManagement\obj\Debug\net6.0\ref\LibraryManagement.dll
